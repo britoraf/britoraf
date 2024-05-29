@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @britoraf or Rafael Brito.
-- 👀 I’m interested in learning more about data analysis, machine learning/AI and Business Intelligence.
-- 🌱 I’m currently learning SQL, then I will go to Python, then R.
-- 💞️ I’m looking to collaborate on Data Analysis and Business Intelligence.
-- 📫 How to reach me: [In](https://www.linkedin.com/in/rafael-brito-75b911231/)
+- 👋 Hi, I’m Rafael Brito.
+- 👀 I’m a Software Development Student at IU International University of Applied Sciences.
+- 🌱 I’m currently learning SQL, Python and HTML/CSS.
+- 💞️ I’m looking to collaborate on Web, Data and AI/ML.
+- 📫 How to reach me: [In](https://www.linkedin.com/in/brito-rafael/)
 
 <!---
 britoraf/britoraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
